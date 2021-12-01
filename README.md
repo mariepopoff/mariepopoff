@@ -6,7 +6,7 @@ I work with JavaScript, and gathered most experience in React in the front-end, 
 
 Before coding, I was Head of Customer Service in a french start-up of the foodtech industry. I learnt there how to manage fast-paced projects in a challenging environment. I also acquired a sharp sense of detail and a problem solving mindset, that I bring to my projects !
 
-Outside of programming I love cooking 🧑, theater 🎭  and travelling 🌎. 
+Outside of programming I love cooking 👩‍🍳, theater 🎭  and travelling 🌎. 
 
 **Github Stats**
 
